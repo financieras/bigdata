@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beginners on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/beginners/</link>
+    <description>Recent content in Beginners on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Apr 2024 19:25:27 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/beginners/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multiple methods of greeting</title>
+      <link>http://localhost:1313/docs/example-page/</link>
+      <pubDate>Sun, 28 Apr 2024 19:25:27 +0200</pubDate>
+      <guid>http://localhost:1313/docs/example-page/</guid>
+      <description>Hello World in Python linkPrint the expression &amp;ldquo;Hello world&amp;rdquo; by various methods.&#xA;Method 1 link print(&amp;#34;Hello world&amp;#34;) Method 2 link print(&amp;#39;Hello&amp;#39; + &amp;#39;world&amp;#39;) Method 3 link print(&amp;#39;Hello&amp;#39; + &amp;#39;world&amp;#39;) Method 4 link print(&amp;#39;Hello&amp;#39;, &amp;#39;world&amp;#39;) Method 5 link print(&amp;#39;{} {}&amp;#39;.format(&amp;#39;Hello&amp;#39;,&amp;#39;world&amp;#39;)) Method 6 link word1 = &amp;#39;Hello&amp;#39; word2 = &amp;#39;World¡ print(f&amp;#39;{word1} {word2}) Method 7 link a = &amp;#34;!dlrow olleH&amp;#34; b = a[::-1] print(b) Method 8 link str = &amp;#34;!dlrow olleH&amp;#34; print(&amp;#39;&amp;#39;.join(reversed(str))) Method 9 link def greeting(): print(&amp;#34;Hello world!</description>
+    </item>
+  </channel>
+</rss>
